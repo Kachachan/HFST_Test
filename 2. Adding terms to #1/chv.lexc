@@ -1,0 +1,11 @@
+Multichar_Symbols
+
+%<n%>                ! % sign used to escape the brackets. <n> stands for noun.
+
+LEXICON Root		! What follows is the 'continuation lexica'
+
+урам%<n%>:урам # ;   ! colon separates the lexical form and morphotactic form. # Indicates the end of a string
+
+пакча%<n%>:пакча # ;   ! "сад"
+хула%<n%>:хула # ;     ! "город"
+канаш%<n%>:канаш # ;   ! "совет"
